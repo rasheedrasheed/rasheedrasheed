@@ -32,7 +32,7 @@ Here's a curated list of projects I’ve completed as part of my cybersecurity l
 ## 📁 Featured Repositories
 | Project | Description | Link |
 |--------|-------------|------|
-| virtual-home-lab | Setting up a local cyber lab on macOS/Windows | [View Repo](#) |
+| virtual-home-lab | Setting up a local cyber lab on macOS/Windows | [View Repo](https://github.com/rasheedrasheed/Setting-up-a-virtual-home-lab) |
 | cloud-home-lab | Building a cloud-based home lab for cybersecurity practice | [View Repo](#) |
 | footprinting-techniques | Info gathering via open-source intelligence and active scanning | [View Repo](#) |
 | vulnerability-assessment | Scan and assess network vulnerabilities using security tools | [View Repo](#) |
