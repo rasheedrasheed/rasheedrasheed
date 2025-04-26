@@ -1,6 +1,6 @@
 Rasheed Odubayo – Junior Cybersecurity Analyst
 
-##Hi there! 👋 I'm Rasheed Odubayo, a passionate and hands-on **Junior Cybersecurity Analyst with a growing portfolio of real-world projects focused on threat detection, system hardening, and security monitoring. I believe in learning by doing, and I’m on a mission to make the digital world safer — one packet at a time.
+## Hi there! 👋 I'm Rasheed Odubayo, a passionate and hands-on **Junior Cybersecurity Analyst with a growing portfolio of real-world projects focused on threat detection, system hardening, and security monitoring. I believe in learning by doing, and I’m on a mission to make the digital world safer — one packet at a time.
 ---
 ## 🛡 My Cybersecurity Projects
 Here's a curated list of projects I’ve completed as part of my cybersecurity learning journey. Each project is designed to replicate real-world scenarios, using industry tools and best practices.
