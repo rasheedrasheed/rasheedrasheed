@@ -35,7 +35,7 @@ Here's a curated list of projects I’ve completed as part of my cybersecurity l
 | virtual-home-lab | Setting up a local cyber lab on macOS/Windows | [View Repo](https://github.com/rasheedrasheed/Setting-up-a-virtual-home-lab) |
 | cloud-home-lab | Building a cloud-based home lab for cybersecurity practice | [View Repo](#) |
 | footprinting-techniques | Info gathering via open-source intelligence and active scanning | [View Repo](#) |
-| vulnerability-assessment | Scan and assess network vulnerabilities using security tools | [View Repo](#) |
+| vulnerability-assessment | Scan and assess network vulnerabilities using security tools | [View Repo](https://github.com/rasheedrasheed/Vulnerability-assessment.git) |
 | phishing-email-analysis | Analyzing phishing emails and spotting key red flags | [View Repo](#) |
 | wazuh-siem-lab | End-to-end guide for setting up Wazuh SIEM | [View Repo](#) |
 | elastic-siem-setup | Configuring Elastic Stack for threat hunting | [View Repo](#) |
