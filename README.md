@@ -46,11 +46,11 @@ Rasheed Odubayo – Junior Cybersecurity Analyst
 ## Featured Repositories
 | Folder | Description | Link |
 |--------|-------------|------|
-| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/rasheedrasheed/Vulnerability-assessment.git) |
+| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](h) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](#) |
 | 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
-| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
+| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/rasheedrasheed/Vulnerability-assessment.git) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
