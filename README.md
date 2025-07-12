@@ -54,7 +54,7 @@ Rasheed Odubayo – Junior Cybersecurity Analyst
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
-| 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
+| 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/rasheedrasheed/stimulating-phishing-email.git) |
 | 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/rasheedrasheed/phishing-email-analysis-report.git) |
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
